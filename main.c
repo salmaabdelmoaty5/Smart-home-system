@@ -9,7 +9,6 @@
 #include "Headers/USART.h"
 
 
-
 int main(void)
 {
 	LCD_init();
